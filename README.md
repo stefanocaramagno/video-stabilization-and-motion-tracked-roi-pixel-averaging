@@ -1,0 +1,1 @@
+# Video Stabilization and Motion-Tracked ROI Pixel Averaging
